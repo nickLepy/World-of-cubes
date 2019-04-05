@@ -3,7 +3,15 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-Assets/AssetStoreTools*
+Assets/AssetStoreTools
+Assets/ProCore/
+Assets/Resources/Images/
+Assets/Resources/Musique/
+Assets/Resources/Sound/
+Assets/Resources/Textures/
+Assets/Resources/Font/
+Dist/
+Packages/
 
 # Visual Studio cache directory
 .vs/
@@ -35,3 +43,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.meta
+*.ttf
