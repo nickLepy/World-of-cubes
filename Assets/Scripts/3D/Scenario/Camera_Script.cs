@@ -36,7 +36,7 @@ public class Camera_Script : MonoBehaviour
         
         GUILayout.BeginArea(new Rect(0, 0, Screen.width, Screen.height));
         GUILayout.BeginVertical();
-        GUILayout.Label("World of Cubes", Styles.Label_Gros(Color.white,80,TextAnchor.MiddleCenter));
+        GUILayout.Label("World of Cubes", Styles.Label_Gros(Color.white, 80,TextAnchor.MiddleCenter));
         GUILayout.Label("Adventure", Styles.Label_Gros(Color.cyan, 40, TextAnchor.MiddleCenter));
 
         GUILayout.EndVertical();
