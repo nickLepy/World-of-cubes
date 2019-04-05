@@ -3,8 +3,7 @@
 ![Alt text](Readme/pic1.png?raw=true "Screenshot of main scene")
 
 ## Authors
-Nicolas Lépy
-See credits for textures & font
+Nicolas Lépy, see credits for textures & font
 
 ## Credits
 [Credit.txt](Credit.txt)
